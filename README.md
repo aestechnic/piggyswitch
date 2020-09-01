@@ -7,9 +7,9 @@ The code is for a Teensy 2.0 listening to the original 8048 controller
 without interfering.
 
 
-Connections:
+## Connections:
 
-Teensy   8048
+```Teensy   8048
 
 GND      7 (EA)
 D5       21 (P20)
@@ -24,7 +24,7 @@ F6       31 (P14)
 F5       32 (P15)
 F4       33 (P16)
 F1       34 (P17)
-VCC      40 (VCC)
+VCC      40 (VCC)```
 
 Additionally Teensy B0,B1,B2 are directly attached to switches outside
 the keyboard matrix, physically I do this at resistors 20,21,22.
