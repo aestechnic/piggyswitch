@@ -6,6 +6,9 @@ keyboard.
 The code is for a Teensy 2.0 listening to the original 8048 controller
 without interfering.
 
+There is a Deskthority post with some context here:
+
+https://deskthority.net/viewtopic.php?f=7&t=24122
 
 ## Connections:
 
